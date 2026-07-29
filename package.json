@@ -17,6 +17,7 @@
     "node": ">=20.0.0"
   },
   "devDependencies": {
+    "@eslint/js": "^10.0.1",
     "@playwright/test": "^1.62.0",
     "@types/node": "^26.1.2",
     "@types/xlsx": "^0.0.35",
